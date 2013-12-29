@@ -16,7 +16,7 @@ Hosts
 | chicago  | (retired) VPS | Ubuntu 11.04 | Chicago | in service 2011-2012 | |
 | perk     | (retired) Linode VPS | Debian Squeeze | Newark | in service 2013-2013 | |
 |          | Kindle Paperwhite | | Shanghai | in service 2012-now <br /> primary reader 2012-now | |
-|          | iPod shuffle | Shanghai | in service 2013-now | |
+|          | iPod shuffle 5th gen | | Shanghai | in service 2013-now | |
 |          | (retired) Kindle 3 | | Changsha | in service 2011-2012 <br /> primary reader 2011-2012 | |
 |          | (retired) iPod touch 1st gen| iOS 3| Changsha | in service 2008-2010 <br /> primary player 2008-2010 | |
 |          | (unavailable) iPhone 4 | iOS 4 | Changsha | in service 2010-2011 <br /> primary phone 2010-2011 | |
